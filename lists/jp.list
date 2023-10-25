@@ -1,0 +1,51 @@
+# > AbemaTV
+USER-AGENT,AbemaTV*
+DOMAIN-SUFFIX,abema.io
+DOMAIN-SUFFIX,abema.tv
+DOMAIN-SUFFIX,ameba.jp
+DOMAIN-SUFFIX,hayabusa.io
+DOMAIN-SUFFIX,api-abematv.bucketeer.jp
+DOMAIN-SUFFIX,vod-abematv.akamaized.net
+DOMAIN-SUFFIX,abema.adx.promo
+DOMAIN-SUFFIX,abema-tv.com
+DOMAIN,abm.hayabusa.media
+DOMAIN,abematv.akamaized.net
+DOMAIN,ds-vod-abematv.akamaized.net
+DOMAIN,linear-abematv.akamaized.net
+DOMAIN,ds-linear-abematv.akamaized.net
+DOMAIN,ds-glb-linear-abematv.akamaized.net
+DOMAIN,link.tv-asahi.co.jp
+
+DOMAIN-SUFFIX,cybertrust.co.jp
+DOMAIN-SUFFIX,cybertrust.ne.jp
+
+
+# > Goal
+DOMAIN-SUFFIX,goal.com
+DOMAIN-SUFFIX,spox.com
+DOMAIN-SUFFIX,adingo.jp
+DOMAIN-SUFFIX,use.sportradarserving.com
+
+
+# > Hulu JP
+DOMAIN-SUFFIX,hulu.jp
+DOMAIN-SUFFIX,happyon.jp
+DOMAIN-SUFFIX,prod.hjholdings.tv
+
+
+# > Paravi
+DOMAIN-SUFFIX,paravi.jp,paravi
+
+
+# > Spotv Now
+DOMAIN-SUFFIX,spotvnow.jp
+DOMAIN-SUFFIX,spozone.jp
+DOMAIN-SUFFIX,brightcove.net
+DOMAIN-SUFFIX,brightcove.com
+
+
+# > U-NEXT
+DOMAIN-SUFFIX,unext.jp
+DOMAIN-SUFFIX,nxtv.jp
+DOMAIN-SUFFIX,hnext.jp
+DOMAIN,us-central1-u-next-apps.cloudfunctions.net

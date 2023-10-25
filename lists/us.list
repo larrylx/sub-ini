@@ -1,0 +1,101 @@
+# > ESPN+
+DOMAIN-SUFFIX,espn.com
+DOMAIN-SUFFIX,espn.net
+DOMAIN-SUFFIX,espncdn.com
+DOMAIN-SUFFIX,espnqa.com
+DOMAIN-SUFFIX,watchespn.com
+DOMAIN,espn.api.edge.bamgrid.com
+DOMAIN,espn.playback.edge.bamgrid.com
+DOMAIN,espn.hb.omtrdc.net
+DOMAIN,secure.espncdn.com.edgesuite.net
+DOMAIN,espn.com.ssl.sc.omtrdc.net
+DOMAIN,vision.fn-pz.com
+DOMAIN,espn.hb-api.omtrdc.net
+DOMAIN,x-live-espn-stgec.uplynk.com
+DOMAIN,dualstack.dss-espn.map.fastly.net
+DOMAIN,bam-sdk-configs.bamgrid.com
+
+
+# > HBO Max
+DOMAIN-SUFFIX,hbo.com
+DOMAIN-SUFFIX,hbogo.com
+DOMAIN-SUFFIX,hbonow.com
+DOMAIN-SUFFIX,hbomax.com
+DOMAIN-SUFFIX,hbomaxcdn.com
+DOMAIN-SUFFIX,max.com
+DOMAIN-SUFFIX,discomax.com
+DOMAIN,hbo-max-gtm.wn.r.appspot.com
+
+
+# > Hulu
+DOMAIN-SUFFIX,hulu.com
+DOMAIN-SUFFIX,huluim.com
+DOMAIN-SUFFIX,hulustream.com
+DOMAIN,cws-hulu.conviva.com
+# DOMAIN,assetshuluimcom-a.akamaihd.net
+
+
+# > NYT
+DOMAIN-SUFFIX,nyt.com
+DOMAIN-SUFFIX,nytimes.com
+
+
+# > Paramount+
+// US UA
+USER-AGENT,PPlus*
+// Intl. UA
+USER-AGENT,ParamountPlus*
+DOMAIN-SUFFIX,cbsi.com
+// DOMAIN-SUFFIX,cbsaavideo.com #播放
+DOMAIN-SUFFIX,cbsivideo.com
+DOMAIN-SUFFIX,paramountplus.com
+DOMAIN-SUFFIX,pplusstatic.com
+// DOMAIN-SUFFIX,mtvnservices.com #MTV
+// DOMAIN-SUFFIX,cws.conviva.com
+DOMAIN,link.theplatform.com
+// 播放验证
+DOMAIN,cbsi.live.ott.irdeto.com
+// DOMAIN,thumbnails.cbsig.net #缩略图
+// DOMAIN,cbsinteractive.hb.omtrdc.net
+// DOMAIN,ads.play.cbsi.video #片头动画，可屏蔽
+// DOMAIN,pubads.g.doubleclick.net #不可屏蔽
+DOMAIN,cbsnews.akamaized.net #CBSN Live
+// CBS live丨US
+DOMAIN,cbsservice.aws.syncbak.com
+DOMAIN,cbsplaylistserver.aws.syncbak.com
+DOMAIN-SUFFIX,7f077.v.fwmrm.net
+DOMAIN-SUFFIX,amlg.io
+DOMAIN-SUFFIX,ns1p.net
+DOMAIN-SUFFIX,mtvnservices.com
+DOMAIN-SUFFIX,cbs.com
+DOMAIN-SUFFIX,cbsnews.com
+DOMAIN-SUFFIX,cbsig.net
+DOMAIN-SUFFIX,cbsaavideo.com
+DOMAIN-SUFFIX,cbs.penthera.com
+DOMAIN-SUFFIX,cbsinteractive.hb.omtrdc.net
+DOMAIN-SUFFIX,87a6b28bc7823e67a5bb2a0a6728c702afcae78d.cws.conviva.com
+DOMAIN-SUFFIX,ipv4.link.bravo.k8s.aor.theplatform.com
+DOMAIN-SUFFIX,pubads.g.doubleclick.net
+DOMAIN-SUFFIX,cbsi.map.fastly.net
+DOMAIN-SUFFIX,fra-lgct-rg2.live.ott.irdeto.com
+
+
+# > Peacock
+USER-AGENT,peacock*
+DOMAIN-SUFFIX,peacocktv.com
+DOMAIN-KEYWORD,nbcstreaming
+DOMAIN-KEYWORD,peacocktv
+DOMAIN-SUFFIX,nbcuni.com
+DOMAIN-SUFFIX,nbcuas.com
+DOMAIN-SUFFIX,comcast.net
+
+
+# > Youtube TV
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN,yt3.ggpht.com
+DOMAIN,youtubei.googleapis.com
+
+
+# > Vroom
+DOMAIN-SUFFIX,vroom.com

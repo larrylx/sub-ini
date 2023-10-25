@@ -1,0 +1,45 @@
+# > Weibo
+DOMAIN-SUFFIX,sinaimg.cn
+DOMAIN-SUFFIX,weibo.com
+DOMAIN-SUFFIX,weibocdn.com
+DOMAIN-SUFFIX,sinaimg.cn.w.alikunlun.com
+DOMAIN,zsinavideo.v.bsgslb.cn
+DOMAIN-SUFFIX,t.cn
+
+# > taobao
+DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,tanx.com
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,alibaba.com
+DOMAIN-SUFFIX,aliapp.org
+DOMAIN-SUFFIX,aliyuncs.com
+DOMAIN-SUFFIX,alipayobjects.com
+DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,tbcache.com
+
+# > Xiaohongshu
+
+# > Bilibili
+USER-AGENT,*bili*
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,bilibili.tv
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,biliapi.com
+DOMAIN-SUFFIX,bilivideo.com
+DOMAIN-SUFFIX,biligame.com
+DOMAIN-SUFFIX,hdslb.com
+DOMAIN,upos-hz-mirrorakam.akamaized.net
+DOMAIN,5v96heal.e0.sched.ovscdns.com
+
+# > Baidu
+DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,bdstatic.com
+DOMAIN-SUFFIX,bcebos.com
+DOMAIN-SUFFIX,qianqian.com
+DOMAIN-SUFFIX,mediav.com
+DOMAIN-SUFFIX,fenxi.com
+
+# > Zhihu
+DOMAIN-SUFFIX,zhihu.com
+DOMAIN-SUFFIX,zhimg.com
+DOMAIN,necaptcha.nosdn.127.net
