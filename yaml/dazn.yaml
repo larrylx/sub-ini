@@ -1,0 +1,29 @@
+payload:
+  # > DAZN
+  # USER-AGENT,DAZN*
+  - PROCESS-NAME,com.dazn
+  - DOMAIN-SUFFIX,dazn.com
+  - DOMAIN-SUFFIX,dazndn.com
+  - DOMAIN-SUFFIX,indazn.com
+  - DOMAIN-SUFFIX,indaznlab.com
+  - DOMAIN-SUFFIX,dazn-api.com
+  - DOMAIN,d151l6v8er5bdm.cloudfront.net
+  - DOMAIN-KEYWORD,voddazn
+  # - DOMAIN-SUFFIX,d1sgwhnao7452x.cloudfront.net,⚽ DAZN
+  # - DOMAIN-SUFFIX,dcblivedazn.akamaized.net,⚽ DAZN
+  # - DOMAIN-SUFFIX,sentry.io,⚽ DAZN
+  # dcf-ak-livedazn.akamaized.net
+  # - DOMAIN-SUFFIX,cws-1273857609.eu-west-1.elb.amazonaws.com
+  # - DOMAIN-SUFFIX,4ae1981d8d1a370d08bf3d24f50f5baf47ef1b62.cws.conviva.com
+  # - DOMAIN-SUFFIX,4ae1981d8d1a370d08bf3d24f50f5baf47ef1b62.ipv4.cws.conviva.com
+  - DOMAIN-SUFFIX,concurrency-service-prod-euc1-1715977256.eu-central-1.elb.amazonaws.com
+  # - DOMAIN-SUFFIX,elb.amazonaws.com
+  # - DOMAIN-SUFFIX,logx.optimizely.com
+  # - DOMAIN-SUFFIX,cdn.optimizely.com
+  # - DOMAIN-SUFFIX,mobile-collector.newrelic.com
+  # - DOMAIN-SUFFIX,cws-sjc2-rdc2.conviva.com
+  # - DOMAIN-KEYWORD,cws-iad
+  # - DOMAIN-KEYWORD,cws-sjc
+  # - DOMAIN-KEYWORD,concurrency-service-prod
+  - DOMAIN-SUFFIX,dce-ak-livedazn.akamaized.net
+  # - DOMAIN-SUFFIX,a1818.dscz.akamai.net

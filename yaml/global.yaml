@@ -1,0 +1,17 @@
+payload:
+  # > Baidu Yun
+  - DOMAIN-SUFFIX,baidupcs.com
+  - DOMAIN-SUFFIX,pan.baidu.com
+
+  # > Xiaohongshu
+  - DOMAIN-SUFFIX,xhscdn.com
+  # - DOMAIN-SUFFIX,xiaohongshu.com
+  - DOMAIN-SUFFIX,xiaohongshu.com.wswebcdn.com
+
+  # > taobao
+  - DOMAIN-SUFFIX,alicdn.com
+
+  # > T-Mobile Wi-Fi Calling
+  - IP-CIDR,208.54.0.0/16
+  - IP-CIDR,66.94.0.0/19
+  - IP-CIDR,206.29.177.36/32

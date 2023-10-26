@@ -1,0 +1,10 @@
+payload:
+  # > Star+
+  - DOMAIN,star.api.edge.bamgrid.com
+  - DOMAIN,star.connections.edge.bamgrid.com
+  - DOMAIN,star.content.edge.bamgrid.com
+  - DOMAIN,star.playback.edge.bamgrid.com
+  - DOMAIN-SUFFIX,starott.com
+  - DOMAIN-SUFFIX,starplus.com
+  # - DOMAIN-SUFFIX,media.starott.com,🇺🇲 美国节点
+  # - DOMAIN-SUFFIX,starplus.com,⚽️ Star+

@@ -1,0 +1,75 @@
+payload:
+  
+  
+  # > AbemaTV
+  # USER-AGENT,AbemaTV*
+  - PROCESS-NAME,tv.abema
+  - DOMAIN-SUFFIX,abema.io
+  - DOMAIN-SUFFIX,abema.tv
+  - DOMAIN-SUFFIX,ameba.jp
+  - DOMAIN-SUFFIX,hayabusa.io
+  - DOMAIN-SUFFIX,api-abematv.bucketeer.jp
+  - DOMAIN-SUFFIX,vod-abematv.akamaized.net
+  - DOMAIN-SUFFIX,abema.adx.promo
+  - DOMAIN-SUFFIX,abema-tv.com
+  - DOMAIN,abm.hayabusa.media
+  - DOMAIN,abematv.akamaized.net
+  - DOMAIN,ds-vod-abematv.akamaized.net
+  - DOMAIN,linear-abematv.akamaized.net
+  - DOMAIN,ds-linear-abematv.akamaized.net
+  - DOMAIN,ds-glb-linear-abematv.akamaized.net
+  - DOMAIN,link.tv-asahi.co.jp
+
+  - DOMAIN-SUFFIX,cybertrust.co.jp
+  - DOMAIN-SUFFIX,cybertrust.ne.jp
+
+  # - DOMAIN,e673.dsce9.akamaiedge.net
+  # - DOMAIN,a1974.dscv.akamai.net
+  # - DOMAIN-SUFFIX,youboranqs01.com
+  # - DOMAIN-SUFFIX,youborafds01.com
+  # - DOMAIN-SUFFIX,api.growthpush.com
+  # - DOMAIN-SUFFIX,app-measurement.com
+  # - DOMAIN-SUFFIX,mobile-collector.newrelic.com
+  # - DOMAIN-SUFFIX,d259wrpk9y8b97.cloudfront.net
+
+
+  # > Goal
+  - DOMAIN-SUFFIX,goal.com
+  - DOMAIN-SUFFIX,spox.com
+  - DOMAIN-SUFFIX,adingo.jp
+  - DOMAIN-SUFFIX,use.sportradarserving.com
+
+
+  # > Hulu JP
+  - DOMAIN-SUFFIX,hulu.jp
+  - DOMAIN-SUFFIX,happyon.jp
+  - DOMAIN-SUFFIX,prod.hjholdings.tv
+  # - DOMAIN-SUFFIX,yb.uncn.jp,🎑 日本机场
+  # - DOMAIN-SUFFIX,streaks.jp,🎑 日本机场
+  # - DOMAIN-SUFFIX,hulu.jp,🎑 日本机场
+  # - DOMAIN-SUFFIX,happyon.jp,🎑 日本机场
+  # - DOMAIN-SUFFIX,hjholdings.jp,🎑 日本机场
+  # - DOMAIN-SUFFIX,prod.hjholdings.tv,🎑 日本机场
+
+
+  # > Paravi
+  - DOMAIN-SUFFIX,paravi.jp
+  # - DOMAIN,vod-paravi-j2.streaks.jp
+  # - DOMAIN,vod-paravi.streaks.jp
+
+
+  # > Spotv Now
+  - DOMAIN-SUFFIX,spotvnow.jp
+  - DOMAIN-SUFFIX,spozone.jp
+  - DOMAIN-SUFFIX,brightcove.net
+  - DOMAIN-SUFFIX,brightcove.com
+
+
+  # > U-NEXT
+  - PROCESS-NAME,jp.unext.mediaplayer
+  - PROCESS-NAME,jp.unext.tv.player
+  - DOMAIN-SUFFIX,unext.jp
+  - DOMAIN-SUFFIX,nxtv.jp
+  - DOMAIN-SUFFIX,hnext.jp
+  - DOMAIN,us-central1-u-next-apps.cloudfunctions.net
+  # - DOMAIN,streamd01ca-nxtv-jp.akamaized.net

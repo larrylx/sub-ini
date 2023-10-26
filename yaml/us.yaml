@@ -1,0 +1,178 @@
+payload:
+
+
+  # > ESPN+
+  - DOMAIN-SUFFIX,espn.com
+  - DOMAIN-SUFFIX,espn.net
+  - DOMAIN-SUFFIX,espncdn.com
+  - DOMAIN-SUFFIX,espnqa.com
+  - DOMAIN-SUFFIX,watchespn.com
+  - DOMAIN,espn.api.edge.bamgrid.com
+  - DOMAIN,espn.playback.edge.bamgrid.com
+  - DOMAIN,espn.hb.omtrdc.net
+  - DOMAIN,secure.espncdn.com.edgesuite.net
+  - DOMAIN,espn.com.ssl.sc.omtrdc.net
+  - DOMAIN,vision.fn-pz.com
+  - DOMAIN,espn.hb-api.omtrdc.net
+  - DOMAIN,x-live-espn-stgec.uplynk.com
+  - DOMAIN,dualstack.dss-espn.map.fastly.net
+  # Unclear
+  # - DOMAIN,wildcard.moatads.com.edgekey.net
+  # - DOMAIN,cdn.registerdisney.go.com
+  # - DOMAIN,geolocation.onetrust.com
+  # - DOMAIN,mobile-data.onetrust.io
+  - DOMAIN,bam-sdk-configs.bamgrid.com
+  # - DOMAIN,885e2dd94adb263c2321d2d0f3778d18523bce4a.cws.conviva.com
+  # - DOMAIN,885e2dd94adb263c2321d2d0f3778d18523bce4a.ipv4.cws.conviva.com
+  # - DOMAIN-SUFFIX,braze.sp
+
+
+  # > HBO Max
+  # USER-AGENT,HBOMAX*
+  # - PROCESS-NAME,com.hbo.hbonow
+  - DOMAIN-SUFFIX,hbo.com
+  - DOMAIN-SUFFIX,hbogo.com
+  - DOMAIN-SUFFIX,hbonow.com
+  - DOMAIN-SUFFIX,hbomax.com
+  - DOMAIN-SUFFIX,hbomaxcdn.com
+  - DOMAIN-SUFFIX,max.com
+  - DOMAIN-SUFFIX,discomax.com
+  - DOMAIN,hbo-max-gtm.wn.r.appspot.com
+
+
+  # > Hulu
+  # PROCESS-NAME,com.hulu.plus
+  - DOMAIN-SUFFIX,hulu.com
+  - DOMAIN-SUFFIX,huluim.com
+  - DOMAIN-SUFFIX,hulustream.com
+  # - DOMAIN-SUFFIX,hulu.com.akadns.net
+  # - DOMAIN-SUFFIX,hulu.map.fastly.net
+  - DOMAIN,cws-hulu.conviva.com
+  # DOMAIN,assetshuluimcom-a.akamaihd.net
+  # - DOMAIN-SUFFIX,112263.com,💸 美国机场
+  # - DOMAIN-SUFFIX,assetshuluimcom-a.akamaihd.net,💸 美国机场
+  # - DOMAIN-SUFFIX,callhulu.com,💸 美国机场
+  # - DOMAIN-SUFFIX,cws-hulu.conviva.com,💸 美国机场
+  # - DOMAIN-SUFFIX,findyourlimits.com,💸 美国机场
+  # - DOMAIN-SUFFIX,freehulu.com,💸 美国机场
+  # - DOMAIN-SUFFIX,hooloo.tv,💸 美国机场
+  # - DOMAIN-SUFFIX,hoolu.com,💸 美国机场
+  # - DOMAIN-SUFFIX,hoolu.tv,💸 美国机场
+  # - DOMAIN-SUFFIX,hu1u.com,💸 美国机场
+  # - DOMAIN-SUFFIX,huloo.cc,💸 美国机场
+  # - DOMAIN-SUFFIX,huloo.tv,💸 美国机场
+  # - DOMAIN-SUFFIX,hulu.com,💸 美国机场
+  # - DOMAIN-SUFFIX,hulu.hb.omtrdc.net,💸 美国机场
+  # - DOMAIN-SUFFIX,hulu.sc.omtrdc.net,💸 美国机场
+  # - DOMAIN-SUFFIX,hulu.tv,💸 美国机场
+  # - DOMAIN-SUFFIX,hulu.us,💸 美国机场
+  # - DOMAIN-SUFFIX,huluaction.com,💸 美国机场
+  # - DOMAIN-SUFFIX,huluad.com,💸 美国机场
+  # - DOMAIN-SUFFIX,huluapp.com,💸 美国机场
+  # - DOMAIN-SUFFIX,huluasks.com,💸 美国机场
+  # - DOMAIN-SUFFIX,hulucall.com,💸 美国机场
+  # - DOMAIN-SUFFIX,hulufree.com,💸 美国机场
+  # - DOMAIN-SUFFIX,hulugans.com,💸 美国机场
+  # - DOMAIN-SUFFIX,hulugermany.com,💸 美国机场
+  # - DOMAIN-SUFFIX,hulugo.com,💸 美国机场
+  # - DOMAIN-SUFFIX,huluim.com,💸 美国机场
+  # - DOMAIN-SUFFIX,huluinstantmessenger.com,💸 美国机场
+  # - DOMAIN-SUFFIX,huluitaly.com,💸 美国机场
+  # - DOMAIN-SUFFIX,hulunet.com,💸 美国机场
+  # - DOMAIN-SUFFIX,hulunetwork.com,💸 美国机场
+  # - DOMAIN-SUFFIX,huluplus.com,💸 美国机场
+  # - DOMAIN-SUFFIX,hulupremium.com,💸 美国机场
+  # - DOMAIN-SUFFIX,hulupurchase.com,💸 美国机场
+  # - DOMAIN-SUFFIX,huluqa.com,💸 美国机场
+  # - DOMAIN-SUFFIX,hulurussia.com,💸 美国机场
+  # - DOMAIN-SUFFIX,huluspain.com,💸 美国机场
+  # - DOMAIN-SUFFIX,hulusports.com,💸 美国机场
+  # - DOMAIN-SUFFIX,hulustream.com,💸 美国机场
+  # - DOMAIN-SUFFIX,huluteam.com,💸 美国机场
+  # - DOMAIN-SUFFIX,hulutv.com,💸 美国机场
+  # - DOMAIN-SUFFIX,huluusa.com,💸 美国机场
+  # - DOMAIN-SUFFIX,joinmaidez.com,💸 美国机场
+  # - DOMAIN-SUFFIX,mushymush.tv,💸 美国机场
+  # - DOMAIN-SUFFIX,myhulu.com,💸 美国机场
+  # - DOMAIN-SUFFIX,originalhulu.com,💸 美国机场
+  # - DOMAIN-SUFFIX,payhulu.com,💸 美国机场
+  # - DOMAIN-SUFFIX,registerhulu.com,💸 美国机场
+  # - DOMAIN-SUFFIX,thehulubraintrust.com,💸 美国机场
+  # - DOMAIN-SUFFIX,wwwhuluplus.com,💸 美国机场
+  # - PROCESS-NAME,com.hulu.plus,💸 美国机场
+
+
+  # > NYT
+  - DOMAIN-SUFFIX,nyt.com
+  - DOMAIN-SUFFIX,nytimes.com
+
+
+  # > Paramount+
+  # USER-AGENT,PPlus*
+  # USER-AGENT,Paramountlus*
+  # PROCESS-NAME,com.cbs.app
+  # PROCESS-NAME,com.cbs.ott
+  # PROCESS-NAME,com.cbs.ca
+  - DOMAIN-SUFFIX,cbsi.com
+  - DOMAIN-SUFFIX,cbsivideo.com
+  - DOMAIN-SUFFIX,paramountplus.com
+  - DOMAIN-SUFFIX,pplusstatic.com
+  # DOMAIN-SUFFIX,cws.conviva.com
+  - DOMAIN,link.theplatform.com
+  - DOMAIN,cbsi.live.ott.irdeto.com
+  # DOMAIN,thumbnails.cbsig.net
+  # DOMAIN,ads.play.cbsi.video
+  - DOMAIN,cbsnews.akamaized.net
+  - DOMAIN,cbsservice.aws.syncbak.com
+  - DOMAIN,cbsplaylistserver.aws.syncbak.com
+  - DOMAIN-SUFFIX,7f077.v.fwmrm.net
+  - DOMAIN-SUFFIX,amlg.io
+  - DOMAIN-SUFFIX,ns1p.net
+  - DOMAIN-SUFFIX,mtvnservices.com
+  - DOMAIN-SUFFIX,cbs.com
+  - DOMAIN-SUFFIX,cbsnews.com
+  - DOMAIN-SUFFIX,cbsig.net
+  - DOMAIN-SUFFIX,cbsaavideo.com
+  - DOMAIN-SUFFIX,cbs.penthera.com
+  - DOMAIN-SUFFIX,cbsinteractive.hb.omtrdc.net
+  - DOMAIN-SUFFIX,87a6b28bc7823e67a5bb2a0a6728c702afcae78d.cws.conviva.com
+  - DOMAIN-SUFFIX,ipv4.link.bravo.k8s.aor.theplatform.com
+  - DOMAIN-SUFFIX,pubads.g.doubleclick.net
+  - DOMAIN-SUFFIX,cbsi.map.fastly.net
+  - DOMAIN-SUFFIX,fra-lgct-rg2.live.ott.irdeto.com
+  # - DOMAIN-KEYWORD,cbsnews
+  # - DOMAIN-KEYWORD,cbsaccess
+  # ads.play.cbsi.video #片头动画，可屏蔽
+  # csi.gatatic.com
+
+
+  # > Peacock
+  # USER-AGENT,Peacock*
+  - PROCESS-NAME,com.peacocktv.peacockandroid
+  - DOMAIN-KEYWORD,nbcstreaming
+  - DOMAIN-KEYWORD,peacocktv
+  - DOMAIN-SUFFIX,peacocktv.com
+  - DOMAIN-SUFFIX,nbcuni.com
+  - DOMAIN-SUFFIX,nbcuas.com
+  - DOMAIN-SUFFIX,comcast.net
+  # # 屏蔽广告
+  # - DOMAIN,video-ads-module.ad-tech.nbcuni.com
+
+
+  # > US-AD
+  # - DOMAIN-SUFFIX,doubleclick.net
+
+
+  # > Youtube TV
+  # - DOMAIN-SUFFIX,google.com
+  # - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,youtube.com
+  - DOMAIN-SUFFIX,googlevideo.com
+  - DOMAIN,yt3.ggpht.com
+  - DOMAIN,youtubei.googleapis.com
+  # - DOMAIN,play.googleapis.com
+  # - DOMAIN,oauthaccountmanager.googleapis.com
+
+
+  # > Vroom
+  - DOMAIN-SUFFIX,vroom.com
